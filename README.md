@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Jatin Koladiya 👋
 
-<!--
-**jatinkoladiya13/jatinkoladiya13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Python Django Developer | REST API | Mysql | MongoDB | PostgreSQL | Open to Jobs & Freelance
 
-Here are some ideas to get you started:
+💻 Projects:
+- 💬 Chat App (real-time using Django Channels)
+- 🏫 School Management System (CRUD, Students, Teachers, Admin)
+- 🛒 E-commerce Website (Cart, Orders, Payments)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack:
+- Python, Django, Django REST Framework, HTML, CSS, Javascript
+- Git, GitHub, PostgreSQL, MongoDB, Mysql
+
+
+📬 Let's connect:  
+[LinkedIn](https://www.linkedin.com/in/jatin-koladiya-218482213/)
